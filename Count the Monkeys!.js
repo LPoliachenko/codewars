@@ -5,4 +5,3 @@ function monkeyCount(n) {
   }
   return monkey;
 }
-//count monkeys
