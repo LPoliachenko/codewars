@@ -1,4 +1,4 @@
-[Remove String Spaces] (https://www.codewars.com/kata/remove-string-spaces/train/javascript)
+[Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces/train/javascript)
 
 ```js
 function noSpace(x){
